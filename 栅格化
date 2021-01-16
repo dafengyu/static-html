@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <title>拼图前端框架跨屏响应式模板</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pintuer.css">
+    <script src="jquery.js"></script>
+    <script src="pintuer.js"></script>
+    <script src="respond.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="line">
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+        </div>
+        <div class="table-responsive">
+            <table class="table">...</table>
+        </div>
+        <img src="..." class="img-responsive" alt="...">
+    </div>
+</body>
+</html>
