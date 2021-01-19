@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="zh-cn">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="renderer" content="webkit">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title></title>
+
+    <link rel="stylesheet" href="/Content/main/Base/Pintuer/pintuer.css">
+
+    <script src="/Content/main/Base/Pintuer/jquery.js"></script>
+
+    <script src="/Content/main/Base/Pintuer/pintuer.js"></script>
+
+    <script src="/Content/main/Base/Pintuer/respond.js"></script>
+
+    <link type="image/x-icon" href="/10.png" rel="shortcut icon" />
+
+      <style type="text/css">  
+
+     /* body {background: url(/rg/image/iii.jpg) no-repeat 100% 110%; padding-bottom: 250px;}p{color: #000;font-size: 16px;} */
+
+      </style>
+
+</head>
+
+ 
+
+ 
+
+ 
+
+    <body >
+
+   <body>
+
+    <div class="container">
+
+        <div class="line">
+
+ 
+
+<h1 >   <button class="button button-large">
+
+        <span class="icon-star"></span>按钮</button>asd</h1>
+
+<hr class="bg-red" />
+
+<button class="button bg-main">
+
+    主色</button>
+
+ 
+
+ 
+
+ 
+
+ 
+
+      <!--       <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div>
+
+            <div class="xs6 xm4 xb3">xs6 xm4 xb3</div> -->
+
+        </div>
+
+       <!-- <div class="table-responsive">
+
+            <table class="table">...</table>
+
+        </div>
+
+        <img src="..." class="img-responsive" alt="...">
+
+    </div> -->
+
+</body>
+
+</html>
+
